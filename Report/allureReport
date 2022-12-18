@@ -1,0 +1,11 @@
+PS C:\Users\lm\PycharmProjects\Allure-Framework>
+PS C:\Users\lm\PycharmProjects\Allure-Framework> allure serve C:\Users\lm\PycharmProjects\Allure-Framework\logs-v
+Generating report to temp directory...
+Report successfully generated to C:\Users\lm\AppData\Local\Temp\1190726095502824984\allure-report
+Starting web server...
+2022-12-18 16:21:42.942:INFO::main: Logging initialized @10220ms to org.eclipse.jetty.util.log.StdErrLog
+Server started at <http://192.168.0.101:54346/>. Press <Ctrl+C> to exit
+
+
+Report URL : http://192.168.0.101:54346/index.html#suites/fbee53df8487942ba5333ea9eebb3863/2a08404f28dda8d6/
+
