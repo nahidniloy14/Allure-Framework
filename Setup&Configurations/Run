@@ -3,4 +3,4 @@
 py.test --alluredir='C:\Users\lm\PycharmProjects\Allure-Framework\logs'-v -s test_allure.py
 
 #------Show Allure Report
-allure serve C:\Users\lm\PycharmProjects\Allure-Framework\logs-v
+allure serve C:\Users\lm\PycharmProjects\Allure-Framework\logs
