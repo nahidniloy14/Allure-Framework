@@ -1,6 +1,6 @@
 
 #--------Generate Logs
-py.test --alluredir='C:\Users\lm\PycharmProjects\Allure-Framework\logs'-v -s test_allure.py
+py.test --alluredir='C:\Users\lm\PycharmProjects\Allure-Framework\logs' -v -s test_allure.py
 
 #------Show Allure Report
 allure serve C:\Users\lm\PycharmProjects\Allure-Framework\logs
