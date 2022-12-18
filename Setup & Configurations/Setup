@@ -1,0 +1,13 @@
+
+#---------Install allue
+pip install allure-pytest
+
+#-------download allure.bat file
+https://repo.maven.apache.org/maven2/io/qameta/allure/allure-commandline/
+
+#-----Environment Variables
+copt the path until allure\bin folder and add this path to environment variables
+
+#-------Check Installation
+allure --version
+
